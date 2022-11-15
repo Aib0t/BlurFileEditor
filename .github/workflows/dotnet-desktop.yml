@@ -92,4 +92,4 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: App Binaries
-        path: ./bin
+        path: D:\a\BlurFileEditor\BlurFileEditor\BlurFormatTester\
